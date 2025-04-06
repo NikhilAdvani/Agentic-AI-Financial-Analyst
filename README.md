@@ -9,7 +9,7 @@
 
 A Streamlit web app that combines Groq's Deepseek R1 with financial data (Yahoo Finance) and web search (DuckDuckGo) capabilities.
 
-![Demo Screenshot](demo.gif) *(Replace with actual screenshot)*
+![Demo Screenshot](Financial-research-assistant.jpg) *(Replace with actual screenshot)*
 
 ## Features ✨
 
