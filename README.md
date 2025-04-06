@@ -59,6 +59,3 @@ A Streamlit web app that combines Groq's Deepseek R1 with financial data (Yahoo 
 
    ```bash
    streamlit run financial_assistant.py
-
-
-
