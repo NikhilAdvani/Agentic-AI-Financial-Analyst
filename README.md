@@ -37,3 +37,28 @@ A Streamlit web app that combines Groq's Deepseek R1 with financial data (Yahoo 
    ```bash
    git clone https://github.com/yourusername/financial-research-assistant.git
    cd financial-research-assistant
+
+## Step 2: Set Up Environment
+
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # Linux/Mac
+   venv\Scripts\activate     # Windows
+
+## Step 3: Install Dependencies
+
+   ```bash
+   pip install -r requirements.txt
+
+## Step 4: Configure Environment
+
+   ```bash
+   GROQ_API_KEY=your_api_key_here
+
+## Step 5: Launch Application
+
+   ```bash
+   streamlit run financial_assistant.py
+
+
+
