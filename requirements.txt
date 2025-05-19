@@ -7,4 +7,4 @@ fastapi
 uvicorn
 groq
 openai
-streamlit
+streamlit>=1.30.0
